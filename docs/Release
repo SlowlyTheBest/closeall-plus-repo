@@ -1,0 +1,19 @@
+Origin: CloseAllPlus
+Label: CloseAllPlus
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: CloseAllPlus package repository
+MD5Sum:
+ b9047c435eba90eef08a2e1332de4345      530 Packages
+ ce5736e69165f9cf34d2ef5c3fe78def      414 Packages.bz2
+SHA1:
+ 66924b182fa1fc907b5d9c98c50c60ec6d642e22      530 Packages
+ 6a9d7e9a751ca3c64df3335d5758f91d873e0571      414 Packages.bz2
+SHA256:
+ ef662168e1b90a1a079d9d27e1bdd19447f9432439ded58e25b441fb5f9ec250      530 Packages
+ 807387ad01d6f4c201d7269cfa19d4a269827a138fdaff0178afcd26c96feea4      414 Packages.bz2
+SHA512:
+ 33c8f51373009d23a862903d124240c78489a148e9cac4b3ff6d2382f990d1a83c04222c27d76b4a6e7e33fbea66938a207e487e8580a8cb9d0d1dd30908fbef      530 Packages
+ 3246734ea2dfdabe26f16d66f703efde2104f42773f50d2af42ca9cdcd69fe323a846ab3c766b52b3b65a7ec0f13ff86c0593f2d0485e90f99405dab6155cfd1      414 Packages.bz2

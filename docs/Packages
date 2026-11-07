@@ -1,0 +1,15 @@
+Package: com.slowly.closeallplus
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: slowly
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: debs/com.slowly.closeallplus_0.0.1_iphoneos-arm64.deb
+Size: 4684
+MD5sum: 246565a48095be80bb532fa9621c4cce
+SHA1: 3afbd2c2c328b514bf0a87794700ce4a079d678b
+SHA256: 7797e11ba5d432dca5afbb14fda22ae4b5e96ebcf6de0ac00f5984e6cebbcfc7
+Description: Close all active running background applications with a large, accessible tap button in the App Switcher.
+Author: slowly
+Name: CloseAllPlus
+
